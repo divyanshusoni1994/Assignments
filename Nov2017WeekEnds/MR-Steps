@@ -12,4 +12,4 @@ Write Mapper class -> map method
 Write Reducer class -> reduce method
 Driver -> main method 
 compile the java -> package them into Jar file
-Execute this jar file -> submit the job to RM.
+Execute this jar file -> submit the job to MR.
